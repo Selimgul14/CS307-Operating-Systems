@@ -1,0 +1,1 @@
+man ping | grep -e -4 -e D -e U > output.txt
